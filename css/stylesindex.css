@@ -1,6 +1,8 @@
 body{
     font-family: Exo;
     background: linear-gradient(to right, #3b4371, #f3904f);
+    /*Cor alternativa: background: linear-gradient(to right, #373b44, #4286f4);
+    */
 }
 button:hover{
     transition-duration: 1s;
